@@ -8,4 +8,4 @@ We are a team of Consulting Partner, Sr. Architects and Lead Developers from Wip
 
 We have uploaded all artifacts related to Road Warrior Architectural Kata in the folder.
 
-Kindly refer the Readme PDF. 
+Kindly refer the OAK_2023_RW_Team-AI2.pdf 
